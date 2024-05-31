@@ -20,7 +20,7 @@ Rest API<br>
 ## Introduction
 
 <p style="font-size: 1.2em; color: #333;">
-  This Spring boot project aims to manage employees and their data by providing a solution that is efficient and easy to use. Below you will find more details about the project, its features, and how to get started.
+  This React project aims to manage employees and their data by providing a solution that is efficient and easy to use. Below you will find more details about the project, its features, and how to get started.
 </p>
 
 ## Features
