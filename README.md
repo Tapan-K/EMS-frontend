@@ -1,4 +1,4 @@
-# Employee management system [frontend]
+# Employee management system [frontend][React]
 
 Welcome to the **EMS project** repository! This README file provides an overview of the project, how to set it up, and how to contribute.
 
@@ -40,8 +40,8 @@ Rest API<br>
 
 <pre style="background-color: #f4f4f4; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
 <code style="font-size: 1.1em; color: #c7254e;">
-Install VS code (STS)
-https://github.com/Tapan-K/EMS-backend
+Install VS code
+
 Open project in VS code
 </code>
 </pre>
