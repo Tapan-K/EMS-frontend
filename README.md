@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Employee management system [frontend]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **EMS project** repository! This README file provides an overview of the project, how to set it up, and how to contribute.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
 
-### `npm start`
+## Technologies used
+React<br>
+Axios (for backend communication)<br>
+Rest API<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Introduction
 
-### `npm test`
+<p style="font-size: 1.2em; color: #333;">
+  This Spring boot project aims to manage employees and their data by providing a solution that is efficient and easy to use. Below you will find more details about the project, its features, and how to get started.
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+<ul style="font-size: 1.1em; color: #555;">
+  <li>Feature 1:Add Employee</li>
+  <li>Feature 2: Update Employee</li>
+  <li>Feature 3: Delete Employee </li>
+  <li>Feature 3: View All list of Employee </li>
+</ul>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p style="font-size: 1.2em; color: #333;">
+  To install the project, follow these steps:
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<pre style="background-color: #f4f4f4; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<code style="font-size: 1.1em; color: #c7254e;">
+Install VS code (STS)
+https://github.com/Tapan-K/EMS-backend
+Open project in VS code
+</code>
+</pre>
 
-### `npm run eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p style="font-size: 1.2em; color: #333;">
+  Here's how to use the project:
+</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<pre style="background-color: #f4f4f4; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<code style="font-size: 1.1em; color: #c7254e;">
+Go to VS code , type on terminal <br>
+  cd employee-frontend<br>
+  npm install<br>
+  npm run dev (for react-vite)
+  
+</code>
+</pre>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p style="font-size: 1.2em; color: #333;">
+  Contributions are welcome! Please read the <a href="#contributing-guidelines" style="color: #007bff;">contributing guidelines</a> first.
+</p>
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p style="font-size: 1.2em; color: #333;">
+  This project is licensed under the MIT License. See the <a href="LICENSE" style="color: #007bff;">LICENSE</a> file for details.
+</p>
